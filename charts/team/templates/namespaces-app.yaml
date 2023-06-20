@@ -9,7 +9,7 @@ spec:
       releaseName: '{{ .Release.Name }}'
       valueFiles:
       - '../../teams/{{ .Release.Name }}/values.yaml'
-    repoURL: 'https://github.com/ntammineni/control-plane'
+    repoURL: 'https://github.com/naveentammineni/control-plane'
     path: charts/namespaces
     targetRevision: HEAD
   destination:
