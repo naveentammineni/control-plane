@@ -5,4 +5,4 @@ namespaces:
 - stage
 - prod
 repos:
-- demo-app-deploy
+- akuity-demo-app-deploy
